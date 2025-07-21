@@ -114,9 +114,9 @@ The GUI is built with Tkinter and provides an intuitive, tabbed interface:
 - **Video Coding Tab**: Encode/decode video using H.261-style motion estimation. View progress and statistics.
 
 **Screenshot Example:**
-```
-[Insert screenshot of main window here]
-```
+<div align='center'>
+![UI Example](images/ui_example.png)
+</div>
 
 ---
 
@@ -167,7 +167,7 @@ A: Text: .txt; Image: .jpg, .jpeg, .png, .bmp, .tiff, .gif; Audio: .wav, .txt; V
 A: Block-based motion estimation is computationally intensive. Try using a smaller video or reducing the search range/block size for faster results.
 
 **Q: Can I use this for real-world compression?**
-A: This project is for educational and research purposes. For production use, refer to optimized libraries and codecs.
+A: This project is for educational and research purposes. For production use, refer to optimized libraries like ffmpeg and codecs.
 
 ---
 
@@ -193,4 +193,4 @@ Pull requests and suggestions are welcome! Please open an issue or submit a PR. 
 ---
 
 ## License
-MIT License 
+This project is licesned under MIT License 
