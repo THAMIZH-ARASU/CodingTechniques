@@ -115,7 +115,7 @@ The GUI is built with Tkinter and provides an intuitive, tabbed interface:
 
 **Screenshot Example:**
 <div align='center'>
-  <img src="images/ui_example.png.png" alt="UI Example">
+  <img src="images/ui_example.png" alt="UI Example">
 </div>
 
 ---
