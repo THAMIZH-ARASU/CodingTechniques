@@ -115,7 +115,7 @@ The GUI is built with Tkinter and provides an intuitive, tabbed interface:
 
 **Screenshot Example:**
 <div align='center'>
-![UI Example](images/ui_example.png)
+  <img src="images/linear_reg.png" alt="Linear Regression Image">
 </div>
 
 ---
